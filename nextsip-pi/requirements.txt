@@ -1,0 +1,6 @@
+adafruit-blinka
+adafruit-circuitpython-pn532
+RPi.GPIO
+RPLCD
+smbus2
+requests
